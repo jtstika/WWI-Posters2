@@ -18,7 +18,7 @@ This is a collection of World War I posters selected for their focus on war casu
 
 This collection came about as an exercise in metadata and information organization. It is hoped that these assembled posters may also be useful in providing a window into the human experience of an increasingly distant historic event. They may also be helpful in exercising critical thinking towards political messaging and propaganda.
 
-These images were sourced from the Library of Congress, [where more posters are available to explore.] (https://www.loc.gov/collections/world-war-i-posters/about-this-collection/)
+These images were sourced from the Library of Congress, <p><a href="https://www.loc.gov/collections/world-war-i-posters/about-this-collection/">where more posters are available to explore</a></p>.
 
 According to the Library of Congress, the World War I posters are in the [public domain.] (https://guides.loc.gov/p-and-p-rights-and-restrictions/rights#243_wwipos.html)
 
